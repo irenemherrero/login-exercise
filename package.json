@@ -1,0 +1,28 @@
+{
+  "name": "login-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irenemherrero/login-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irenemherrero/login-exercise/issues"
+  },
+  "homepage": "https://github.com/irenemherrero/login-exercise#readme",
+  "dependencies": {
+    "cookie-session": "^2.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "passport": "^0.6.0",
+    "passport-google-oauth2": "^0.2.0"
+  }
+}
